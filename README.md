@@ -1,6 +1,10 @@
 # Music_store_database_SQL_Project
 SQL Project on Music Store Database
 
+New learnings: 
+CTE (Common Table Expression) which is a one-time result set that only exists for the duration of the query.  
+ROW_NUMBER function is a SQL ranking function that assigns a sequential rank number to each new record in a partition.
+
 Questions Solved:
 
 1. Who is the senior most employee based on job title?  
